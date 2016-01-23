@@ -13053,3 +13053,24 @@ body:not(.no-transition) #wrapper,
     text-align: center;
     border-bottom: 4px solid #000;
 }
+
+@media only screen and (max-width : 480px) {
+    #countdown-ex1 {
+        display: none;
+    }
+    .hide-mobile {
+        display: none;
+    }
+}
+
+#wedding-rsvp-form {
+    opacity: 0.15;
+    pointer-events: none;
+}
+
+.row {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
