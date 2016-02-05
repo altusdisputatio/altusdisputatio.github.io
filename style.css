@@ -13066,6 +13066,7 @@ body:not(.no-transition) #wrapper,
 #wedding-rsvp-form {
     opacity: 0.15;
     pointer-events: none;
+    display: none;
 }
 
 .row {
@@ -13073,4 +13074,11 @@ body:not(.no-transition) #wrapper,
     margin-left: auto;
     margin-right: auto;
 }
-
+.reg-btn {
+    width: auto;
+    min-width: 40%;
+    text-align: center;
+}
+.reg-btn-cnt {
+    text-align: center;
+}
