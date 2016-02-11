@@ -13082,3 +13082,8 @@ body:not(.no-transition) #wrapper,
 .reg-btn-cnt {
     text-align: center;
 }
+
+.tac {
+    font-size: 18px;
+    font-weight: 300;
+}
