@@ -13087,3 +13087,8 @@ body:not(.no-transition) #wrapper,
     font-size: 18px;
     font-weight: 300;
 }
+.contact-items {
+    font-size: 18px;
+    font-weight: 300;
+    text-align: center;
+}
