@@ -13092,3 +13092,13 @@ body:not(.no-transition) #wrapper,
     font-weight: 300;
     text-align: center;
 }
+
+.full-body {
+    display: none;
+}
+
+.contact-admin {
+    font-size: 28px;
+    padding: 20px;
+}
+
