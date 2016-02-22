@@ -13100,5 +13100,6 @@ body:not(.no-transition) #wrapper,
 .contact-admin {
     font-size: 28px;
     padding: 20px;
+    z-index: 999999;
 }
 
