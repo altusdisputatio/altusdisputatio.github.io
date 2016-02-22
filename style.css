@@ -13094,12 +13094,13 @@ body:not(.no-transition) #wrapper,
 }
 
 .full-body {
-    display: none;
+/*    display: none;*/
 }
 
 .contact-admin {
     font-size: 28px;
     padding: 20px;
     z-index: 999999;
+    display: none;
 }
 
